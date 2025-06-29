@@ -28,9 +28,9 @@ num_posts = st.slider("Number of posts to analyze", 10, 500, 100, 10)
 if topic:
     # Reddit API setup
     reddit = praw.Reddit(
-        client_id='o-kEGySSNCVXVjTHRiiStw',
-        client_secret='FHuig0v-dNdhRS7hk3WWSohfbO-BcA',
-        user_agent='Analysis u/Kaishi_Light'
+        client_id='YOUR-ID',
+        client_secret='YOUR_SECRET',
+        user_agent='YOUR_APP_NAME'
     )
 
     # Fetch posts based on user settings
