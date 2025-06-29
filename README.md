@@ -29,6 +29,12 @@ An interactive Streamlit dashboard that visualizes Reddit discussions around any
 ### Network Graph
 ![Network Graph](screenshots/network.png)
 
+### Votes 
+![Votes](screenshots/Votes.png)
+
+### Data Graph
+![Data](screenshots/Raw_data.png)
+
 ---
 
 ## 🛠 Installation
